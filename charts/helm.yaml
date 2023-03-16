@@ -1,0 +1,6 @@
+build:
+  uri: https://github.com/xstefank/numberguess_vf2f.git
+  ref: main
+#  contextDir: jaxrs-client
+deploy:
+  replicas: 1
